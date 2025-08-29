@@ -32,11 +32,23 @@ ________________________________________________________________________________
 
 🏆 Java-Practice-HackerRank/
 │── Arrays/       # Arrays and expressions problems
+
+
 │── loops/        # For loop, while loop, pattern problems
+
+
 │── arrays/       # Array-based problems
+
+
 │── strings/      # String manipulation problems
+
+
 │── patters/      # Basic to Advanced patters
+
+
 │── test/         # Test conducted in the training
+
+
 │── README.md        # Project documentation
 _______________________________________________________________________________________________________________________________________________________________
 
@@ -46,7 +58,7 @@ ________________________________________________________________________________
 -> Language: Java ☕
 
 
--> Platform: HackerRank
+-> Platform: HackerRank(HacKos : https://www.hackerrank.com/sakravarthiprab1/hackos)
 
 
 -> Tools: VS Code, IntelliJ IDEA, Git & GitHub
